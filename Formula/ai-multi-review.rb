@@ -2,7 +2,7 @@ class AiMultiReview < Formula
   desc "Multi-LLM parallel code review CLI"
   homepage "https://github.com/3062-in-zamud/ai-multi-review"
   url "https://github.com/3062-in-zamud/ai-multi-review/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "PLACEHOLDER"  # v0.2.0 タグ作成後に更新
+  sha256 "aa7a8177abbe6564f716c46533ec9510f4b1df2d0e78f7052803993f55f8ccd3"
   license "MIT"
 
   depends_on "jq"
